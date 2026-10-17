@@ -11,4 +11,5 @@ def test_attendance():
 
 
 if __name__ == "__main__":
+    print("Student ID:", student_id)
     test_attendance()
